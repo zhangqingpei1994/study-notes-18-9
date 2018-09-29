@@ -2,7 +2,7 @@
 
 ### 1. 在官网上下载git 
 
- git下载地址：https://www.git-scm.com/download/，自己当时下载的时候下不下来，是境伟大佬帮忙翻墙下的。test11
+ git下载地址：https://www.git-scm.com/download/，自己当时下载的时候下不下来，是境伟大佬帮忙翻墙下的。
 
 ### 2. 配置公钥
 
