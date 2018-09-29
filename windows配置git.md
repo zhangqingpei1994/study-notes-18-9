@@ -108,6 +108,20 @@ $ git commit -m "test"
 
 参考网址：https://blog.csdn.net/sssssuuuuu666/article/details/78565381
 
+### 8.安装配置TortoiseGit
+
+1）下载安装，这里就不多说了，官网都可以下载，然后点击下一步就行，要说的一点是一开始安装的时候选语言的时候直接选英语就行。
+
+2）安装完事后安装一个汉化包，也是直接点下一步
+
+3）设置汉语，在空白处右键->settings->generals->launage设置语言，如下图所示：
+
+![](https://github.com/zhangqingpei1994/picture/blob/master/study-notes-new-start/6.png)
+
+这样就变成汉语了，同样可以设置文本比较软件为beyondcompare，如下图所示：
+
+![](https://github.com/zhangqingpei1994/picture/blob/master/study-notes-new-start/7.png)
+
 
 
 
