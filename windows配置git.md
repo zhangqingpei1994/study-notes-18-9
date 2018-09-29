@@ -12,11 +12,11 @@
 
 按三次回车就生成了git的公钥，如下图所示是网上的例子：
 
-![](F:\picture_tmp\20171117205558415.png)
+![](https://github.com/zhangqingpei1994/picture/blob/master/study-notes-new-start/5.png)
 
 自己的是在C:\Users\zhang\ .ssh这个路径下的id_rsa.pub，打开复制粘贴到github中，在github下面的settings中的ssh选项中，如下图所示：
 
-![](F:\picture_tmp\123.png)
+![](https://github.com/zhangqingpei1994/picture/blob/master/study-notes-new-start/2.png)
 
 点击New SSH key,然后将复制的公钥粘贴到这里，添加公钥成功。
 
@@ -43,9 +43,7 @@ $ cd study-notes-new-start
 
 我是在F:\github文件夹下执行的Git Bash Here，github就是一个普通的文件夹
 
-
-
-![456](F:\picture_tmp\456.png)
+![](https://github.com/zhangqingpei1994/picture/blob/master/study-notes-new-start/3.png)
 
 如图所示是文件布局结构
 
@@ -58,7 +56,7 @@ $ git init
 
 经过上面两条命令就会在当前目录下生成一个.git的文件夹
 
-![](F:\picture_tmp\111.png)
+![](https://github.com/zhangqingpei1994/picture/blob/master/study-notes-new-start/1.png)
 
 ### 5.添加文件到版本库
 
@@ -84,7 +82,7 @@ $ git commit -m "test"
 
 注册并登录GitHub，按照以下三步操作即可创建一个仓库。第一步为创建一个新的仓库，第二步为仓库起一个名字，第三步确认创建。
 
-![](F:\picture_tmp\20171117201711331.png)
+![](https://github.com/zhangqingpei1994/picture/blob/master/study-notes-new-start/4.png)
 
 这个图片是网上的别人博客里面的，名字最好和自己刚刚创建的本地仓库一样，不知道不一样会不会有影响。
 
@@ -105,6 +103,10 @@ $ git commit -m "test"
   ```
 
 ### 7. 保存github的用户名和密码
+
+这个在windows上git好像自动保存了。
+
+参考网址：https://blog.csdn.net/sssssuuuuu666/article/details/78565381
 
 
 
